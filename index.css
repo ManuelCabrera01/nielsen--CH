@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+  margin: 20px;
+  float: left;
+}
+#button {
+  margin-top: 10%;
+  width: 30%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#result {
+  width: 100%;
+  margin-top: 100px;
+}
+
+#contaier {
+  padding: 30px;
+}
